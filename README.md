@@ -33,3 +33,22 @@ I'm the **Creator & Administrator of K-Tube**, where I build and experiment with
 ---
 
 **Thanks for stopping by!** ⭐
+
+--- 
+<p align="left">
+  <a href="https://github.com/KA1121Studio">
+    <img height="20" src="https://komarev.com/ghpvc/?username=KA1121Studio" />
+  </a>
+  <a href="https://github.com/KA1121Studio">
+    <img height="20" src="https://img.shields.io/github/followers/KA1121Studio?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/KA1121Studio">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/KA1121Studio/posts.svg" />
+  </a>
+  <a href="http://qiita.com/KA1121Studio">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/KA1121Studio/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/KA1121Studio">
+    <img height="20" src="https://badgen.org/img/zenn/KA1121Studio/articles?style=plastic" />
+  </a>
+</p>
