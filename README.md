@@ -52,3 +52,13 @@ I'm the **Creator & Administrator of K-Tube**, where I build and experiment with
     <img height="20" src="https://badgen.org/img/zenn/KA1121Studio/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KA1121Studio&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KA1121Studio&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KA1121Studio&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KA1121Studio&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KA1121Studio&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=KA1121Studio&theme=gruvbox)
